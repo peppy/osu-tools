@@ -1,7 +1,7 @@
 # osu!tools
 
 [![Build status](https://github.com/ppy/osu-tools/actions/workflows/ci.yml/badge.svg?branch=master&event=push)](https://github.com/ppy/osu-tools/actions/workflows/ci.yml)
-[![CodeFactor](https://www.codefactor.io/repository/github/ppy/osu-tools/badge)](https://www.codefactor.io/repository/github/ppy/osu-tools) 
+[![CodeFactor](https://www.codefactor.io/repository/github/ppy/osu-tools/badge)](https://www.codefactor.io/repository/github/ppy/osu-tools)
 [![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
 
 Tools for [osu!](https://osu.ppy.sh).
@@ -27,7 +27,7 @@ This is part of a group of projects which are used in live deployments where the
 ## I want to make changes
 Most relevant code is in the main [ppy/osu](https://github.com/ppy/osu) repository. To make any meaningful changes you will likely need to edit that as well.
 
-- Clone all relevant repos into the same directory 
+- Clone all relevant repos into the same directory
 ```shell
 git clone https://github.com/ppy/osu-tools
 git clone https://github.com/ppy/osu
@@ -49,7 +49,7 @@ JetBrains ReSharper InspectCode is also used for wider rule sets. You can run it
 
 ## I want to run someone else's changes
 
-- Clone all relevant repos into the same directory 
+- Clone all relevant repos into the same directory
 ```shell
 git clone https://github.com/ppy/osu-tools
 git clone https://github.com/ppy/osu
@@ -68,7 +68,7 @@ git checkout -b branch_name smoogi/branch_name
 
 When it comes to contributing to the project, the two main things you can do to help out are reporting issues and submitting pull requests. You might want to refer to the [contributing guidelines](https://github.com/ppy/osu/blob/master/CONTRIBUTING.md) in the main osu! repository to understand how to help in the most effective way possible.
 
-We love to reward quality contributions. If you have made a large contribution, or are a regular contributor, you are welcome to [submit an expense via opencollective](https://opencollective.com/ppy/expenses/new). If you have any questions, feel free to [reach out to peppy](mailto:pe@ppy.sh) before doing so.
+Our team believes in **human contributions**. Any contribution – be it an issue report or a pull request – which is created by, documented by, or aided by AI/LLM usage will typically be **closed and locked without further discussion**.
 
 # Licence
 
